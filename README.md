@@ -1,4 +1,4 @@
-# QRCodeSignDemo
+# QR Code Sign Demo
 Simple Demo Showing the Use of QR Codes and Google Analytics Campaigns
 
 Here is a simple little scenario that shows using QR codes in combination with a website that is instrumented with Google Analytics to see how many people visit your website from a QR code.   
