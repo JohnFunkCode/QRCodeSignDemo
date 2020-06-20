@@ -1,8 +1,9 @@
 # QRCodeSignDemo
 Simple Demo Showing the Use of QR Codes and Google Analytics Campaigns
 
+Here is a simple little scenario that shows using QR codes in combination with a website that is instrumented with Google Analytics to see how many people visit your website from a QR code.   
 
-For this scenario we want to setup a red sign and a green sign with QR codes on them.  We will use Google analytics campaigns to see which sign gets the most people scanning the QR code.
+The hypothetical scenario for this demo is that someone wants to put signs with QR codes on them in a garden to see how people interact with them.  For this scenario we'll setup a red sign and a green sign with QR codes on them.  We will use Google analytics campaigns to see which sign gets the most to people scan the QR code.
 
 We'll use a very simple test page that is instrumented with Google Analytics as the destination for this demo
 Here is the code for this webpage:
