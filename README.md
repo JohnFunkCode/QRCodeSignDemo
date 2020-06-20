@@ -49,7 +49,7 @@ I saved the .png and the .svg as RedQRCode.png and RedQRCode.svg
 ![QRCode Generator for Green Sign](QRCodeGenerator_GreenQRCode.png)
 I saved the .png and the .svg as GreenQRCode.png and GreenQRCode.svg
 
-## Step 5: After a little colorizing for demo purposes here are the two signs we can place:
+## Step 5: After a little colorizing for demo purposes here are the two signs we can place in the garden.
 ![Red Sign](RedRedQRCode.png)
 
 ![Green Sign](GreenGreenQRCode.png)
